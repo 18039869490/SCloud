@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTabSelected">#FFFFFF</color>
+    <color name="colorTabDefault">#999999</color>
+    <color name="searchBar">#DB4437</color>
+    <color name="searchBarT">#FF6243</color>
+    <color name="searchBoxBorder">#CCCCCC</color>
+    <color name="searchBackground">#03A9F4</color>
+    <color name="shadowBackground">#EEF0EF</color>
 </resources>
